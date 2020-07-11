@@ -15,7 +15,7 @@ This is simple web project we can deploy in a server
 or local file system
 
 ## How To Contribute
-
+Please fork this repository and then issue pull requests for review.
 
 ## Copyright
 GIT 2020 Training
