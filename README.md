@@ -5,5 +5,9 @@ how to use Git and Github together.
 This Example is to show different parts of the 
 git repository and various commands
 ## Purpose
+As stated above this project is for showing
+demos and related stuff
 ## Deployment
+This is simple web project we can deploy in a server 
+or local file system
 ## How To Contribute
